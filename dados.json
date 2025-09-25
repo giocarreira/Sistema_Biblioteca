@@ -1,0 +1,22 @@
+{
+    "usuarios": [
+        {
+            "Nome": "Giovanna",
+            "Senha": "1234"
+        }
+    ],
+    "livros": [
+        {
+            "autor": "Sara Shepard",
+            "titulo": "Pretty Little Liars",
+            "ano": 2007,
+            "avaliacao": null
+        },
+        {
+            "autor": "Jk Rolling",
+            "titulo": "Harry Potter",
+            "ano": 1999,
+            "avaliacao": null
+        }
+    ]
+}
