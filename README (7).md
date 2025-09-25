@@ -27,9 +27,9 @@ Este projeto é um sistema de biblioteca interativo desenvolvido em Python, com 
 
 Para acessar como administrador, utilize:
 
-- **Login**: `Admin`
+- **Login**: `admin`
 - **Senha**: `1234`
 
 ## Execução
 
-Para iniciar o sistema, execute o arquivo `main.py`:
+Para iniciar o sistema, execute o arquivo `main.py` no terminal:
