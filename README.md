@@ -32,4 +32,4 @@ Para acessar como administrador, utilize:
 
 ## Execução
 
-Para iniciar o sistema, execute o arquivo `main.py` no terminal:
+Para iniciar o sistema, execute o arquivo `main.py` no terminal.
